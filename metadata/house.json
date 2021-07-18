@@ -1,0 +1,19 @@
+{
+  "name": "Dinesh's House",
+  "description": "A Mansion with a swimming pool",
+  "image": "https://ipfs.io/ipfs/QmYwL6isXKF8eFLWMDdAvFzz7Gn7Fgsmn1SVPNkEXpiyGJ?filename=dinesh_house.jpg",
+  "attributes": [
+    {
+      "trait_type": "Acres",
+      "value": 2
+    },
+    {
+      "trait_type": "Floors",
+      "value": 2
+    },
+    {
+      "trait_type": "Area",
+      "value": 50000
+    }
+  ]
+}
